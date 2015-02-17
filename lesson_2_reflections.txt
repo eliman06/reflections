@@ -1,8 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
-?When you initialize a repository a message with the location of the new repository is displayed. This is necessary to work with git and streamline our programming.
+When you initialize a repository a message with the location of the new repository is displayed. This is necessary to work with git and streamline our programming.
 
-?What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches helps when we want create a new version of my project with some variations.
 
-﻿How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?
 Well, it allow me see the relations between the commits and what happens when we create a branch.
+
+﻿What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When two branches are merged the codes are joined to the original version. The reason because we represent the merge in the diagram is because its more easy to see or imagine the process in the git structure.
+
+
